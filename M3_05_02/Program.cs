@@ -11,5 +11,5 @@ namespace BOOPM3_05_02
     }
 
     // Exercises
-    // 1.   Make IWine immutable
+    // 1.   Write the code to present a Winecellar
 }
